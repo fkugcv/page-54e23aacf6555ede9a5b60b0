@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c20f58e1eb.zenghualang.cn/sitemap.xml
